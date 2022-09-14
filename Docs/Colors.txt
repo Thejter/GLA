@@ -1,0 +1,12 @@
+Budynki:
+	czerwony: 				ApartamentBuilding1		255,	0,		0
+	ciemno pomarańczowy:	ApartamentBuilding2		255,	85,		0
+	jasno pomarańczowy:		ApartamentBuilding3		255,	170,	0
+	żółty:					ApartamentBuilding4		255,	255,	0
+
+Ulica:
+	ciemno szary:			Asphalt					50,		50,		50
+	jasno szary:			Pavement				150,	150,	150
+
+Inne:
+	zielony:				Grass					100,	255,	0
