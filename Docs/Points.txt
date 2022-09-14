@@ -1,0 +1,18 @@
+Dodatnie:
+	dojazd do celu						x= 1000
+	przejazd na zielonym				x= 10
+	ustąpnienie pierwszeństwa			x= 50
+	
+
+Ujemne:
+	kolizja z innym uczestnikiem ruchu	x= -1000
+	przejazd na czerwonym				x= -50
+	nieustąpienie pierwszeństwa			x= -50
+	wjazd na przeciwległy pas			x= -50
+	wjazd na chodnik					x= -50
+	
+
+Wzór:
+	czas								x= 10*60 - timeInSeconds
+	jazda z prędkością					x= abs(maxSpd - currentSpd)
+	
