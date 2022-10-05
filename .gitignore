@@ -51,6 +51,7 @@ GrandLearnAuto/Plugins/*/Binaries/*
 
 # Builds
 GrandLearnAuto/Build/*
+Builds/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !GrandLearnAuto/Build/*/
